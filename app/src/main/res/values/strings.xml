@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">trial</string>
+    <string name="happy_birthday_ben">Happy Birthday, Ben!</string>
+    <string name="from_lyls">From, Lyls</string>
+    <string name="from_lyala">From, Lyala</string>
+    <string name="birthday_gift">Birthday Gift</string>
+    <string name="you_have_been_tricked">YOU HAVE BEEN TRICKED!!</string>
+</resources>
